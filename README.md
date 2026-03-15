@@ -43,11 +43,11 @@ portfolio-website
 
 Aqui você pode adicionar uma imagem do seu site.
 
-```
-![Preview do site](preview.png)
-```
 
----
+![Preview do site](preview.png)
+
+
+
 
 ## 📬 Contato
 
