@@ -34,7 +34,7 @@ portfolio-website
 │
 ├── index.html
 ├── style.css
-└── preview.png
+└── preview do Projeto
 ```
 
 ---
